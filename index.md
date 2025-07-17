@@ -8,7 +8,7 @@
 - Helps SEOs and content marketers track post performance easily
 
 ## 📄 Privacy Policy
-[Click here to view the Privacy Policy](https://nikhilarokkam.github.io/gsc-addon-assets/)
+[Click here to view the Privacy Policy](https://nikhilarokkam.github.io/gsc-addon-assets/privacy-policy)
 
 ## ✉️ Contact & Support
 Email: [nikhila@webaround.co](mailto:nikhila@webaround.co)
